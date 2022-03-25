@@ -1,0 +1,60 @@
+[submodule "lib/vorbis"]
+	path = lib/vorbis
+	url = https://github.com/native-toolkit/libvorbis
+[submodule "lib/sdl"]
+	path = lib/sdl
+	url = https://github.com/native-toolkit/libsdl
+[submodule "lib/openal"]
+	path = lib/openal
+	url = https://github.com/native-toolkit/libopenal
+[submodule "lib/curl"]
+	path = lib/curl
+	url = https://github.com/native-toolkit/libcurl
+[submodule "lib/ogg"]
+	path = lib/ogg
+	url = https://github.com/native-toolkit/libogg
+[submodule "lib/zlib"]
+	path = lib/zlib
+	url = https://github.com/native-toolkit/libzlib
+[submodule "lib/neko"]
+	path = lib/neko
+	url = https://github.com/native-toolkit/libneko
+[submodule "lib/png"]
+	path = lib/png
+	url = https://github.com/native-toolkit/libpng
+[submodule "lib/jpeg"]
+	path = lib/jpeg
+	url = https://github.com/native-toolkit/libjpeg
+[submodule "lib/freetype"]
+	path = lib/freetype
+	url = https://github.com/native-toolkit/libfreetype
+[submodule "lib/harfbuzz"]
+	path = lib/harfbuzz
+	url = https://github.com/native-toolkit/libharfbuzz
+[submodule "lib/cairo"]
+	path = lib/cairo
+	url = https://github.com/native-toolkit/libcairo
+[submodule "lib/pixman"]
+	path = lib/pixman
+	url = https://github.com/native-toolkit/libpixman
+[submodule "lib/lzma"]
+	path = lib/lzma
+	url = https://github.com/native-toolkit/liblzma
+[submodule "lib/tinyfiledialogs"]
+	path = lib/tinyfiledialogs
+	url = https://github.com/native-toolkit/libtinyfiledialogs
+[submodule "lib/efsw"]
+	path = lib/efsw
+	url = https://github.com/native-toolkit/libefsw
+[submodule "lib/vpx"]
+	path = lib/vpx
+	url = https://github.com/native-toolkit/libvpx
+[submodule "lib/webm"]
+	path = lib/webm
+	url = https://github.com/native-toolkit/libwebm
+[submodule "lib/mbedtls"]
+	path = lib/mbedtls
+	url = https://github.com/native-toolkit/libmbedtls
+[submodule "lib/mojoal"]
+	path = lib/mojoal
+	url = https://github.com/native-toolkit/libmojoal
